@@ -18,13 +18,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
     ![eqn4](./ex1.jpg)
 4.	Construct the upper triangular matrix R
     ![eqn5](./ex2.jpg)
-
-
-
 ## Program:
 ### Gram-Schmidt Method
-```
-
 ''' 
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: RANJANI A
@@ -51,12 +46,7 @@ def QR_Decomposition(A):
 a = np.array(eval(input()))
 QR_Decomposition(a)
 
-
-
-
-
 ```
-
 ## Output
 ![Screenshot (213)](https://github.com/Ranjania2005/QRdecomposition/assets/151624950/7d2c0eb8-2026-480b-a49f-c7f62c2285dd)
 
