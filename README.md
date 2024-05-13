@@ -20,6 +20,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
     ![eqn5](./ex2.jpg)
 ## Program:
 ### Gram-Schmidt Method
+```
 ''' 
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: RANJANI A
